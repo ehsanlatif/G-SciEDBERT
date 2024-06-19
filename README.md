@@ -21,6 +21,7 @@ To get started with the notebooks provided in this repository, follow the instru
 Ensure you have the following installed:
 - Python 3.7 or higher
 - Jupyter Notebook
+- Cuda
 - PyTorch
 - Transformers (HuggingFace library)
 
