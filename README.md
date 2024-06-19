@@ -27,20 +27,20 @@ Ensure you have the following installed:
 ### Setup Instructions
 
 1. **Clone the Repository:**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/your-repo/G-SciEdBERT.git
    cd G-SciEdBERT
-   \`\`\`
+   ```
 
 2. **Install Dependencies:**
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 3. **Run Jupyter Notebook:**
-   \`\`\`bash
+   ```bash
    jupyter notebook
-   \`\`\`
+   ```
 
 ### Notebooks Description
 
@@ -58,13 +58,13 @@ The G-SciEdBERT model is deployed on HuggingFace and can be accessed via the fol
 ## Citation
 
 If you use this model or code in your research, please cite our paper:
-\`\`\`
+```
 @article{Latif2023GSciEdBERT,
   title={G-SciEdBERT: A Contextualized LLM for Science Assessment Tasks in German},
   author={Latif, Ehsan and Lee, Gyeong-Geon and Neuman, Knut and Kastorff, Tamara and Zhai, Xiaoming},
   journal={arXiv preprint arXiv:2402.06584},
   year={2024}
 }
-\`\`\`
+```
 
 Thank you for using G-SciEdBERT! If you have any questions or feedback, please feel free to open an issue in this repository.
